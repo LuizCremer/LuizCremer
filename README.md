@@ -26,15 +26,6 @@
    <a href="https://instagram.com/luiz_cremer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://br.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
 </div>
- 
-<div align="center">
-    <img src="https://emojis.slackmojis.com/emojis/images/1643514719/7248/baby-yoda-soup.gif?1643514719" alt="baby Yoda" style="width: 50px; height: 50px; border-radius: 50%;">
-</div>
 
-<div align="center">
-    <p>
-    Que a Força esteja com você!!
-    </p>
-</div>
 
 

@@ -1,6 +1,6 @@
 ## Hello World, Eu sou o Luiz Cremer 
 
-- 🌱 Cursando Análise e Desenvolvimento de sistemas / PUCPR
+- 🌱 Cursando Análise e Desenvolvimento de Sistemas na PUCPR.
 
 ##
 
